@@ -41,8 +41,8 @@ const gunkirat = {
 
 ### 📊 GitHub Stats
 
-![Gunkirat's GitHub stats](https://github-readme-stats.vercel.app/api?username=gunkiratsingh&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gunkiratsingh&layout=compact&theme=radical)
+![Gunkirat's GitHub stats](https://github-readme-stats.vercel.app/api?username=gunkirat15&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gunkirat15&layout=compact&theme=radical)
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
