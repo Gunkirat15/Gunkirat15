@@ -43,6 +43,79 @@ const gunkirat = {
 ![Gunkirat's GitHub stats](https://github-readme-stats.vercel.app/api?username=gunkirat15&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gunkirat15&layout=compact&theme=radical)
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 224.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 72 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 6 Public Repositories 
+ > 
+> 🔑 1 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                11 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+🌆 Daytime                71 commits          ██████░░░░░░░░░░░░░░░░░░░   25.54 % 
+🌃 Evening                124 commits         ███████████░░░░░░░░░░░░░░   44.60 % 
+🌙 Night                  72 commits          ██████░░░░░░░░░░░░░░░░░░░   25.90 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   52 commits          █████░░░░░░░░░░░░░░░░░░░░   18.71 % 
+Tuesday                  15 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
+Wednesday                86 commits          ████████░░░░░░░░░░░░░░░░░   30.94 % 
+Thursday                 24 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
+Friday                   13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
+Saturday                 28 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
+Sunday                   60 commits          █████░░░░░░░░░░░░░░░░░░░░   21.58 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Toronto
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               5 repos             ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
+Python                   5 repos             ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
+Assembly                 4 repos             █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/Gunkirat15/Gunkirat15/main/assets/bar_graph.png)
+
+
+ Last Updated on 26/05/2025 01:42:38 UTC
 <!--END_SECTION:waka-->
 
 ---
