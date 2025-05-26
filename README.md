@@ -43,15 +43,13 @@ const gunkirat = {
 ![Gunkirat's GitHub stats](https://github-readme-stats.vercel.app/api?username=gunkirat15&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gunkirat15&layout=compact&theme=radical)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.2%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 224.2 kB Used in GitHub's Storage 
  > 
-> 🏆 68 Contributions in the Year 2025
+> 🏆 75 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -86,16 +84,18 @@ Sunday                   63 commits          ██████░░░░░�
 🕑︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Git Config               12 mins             ████████████████████████░   96.43 % 
+YAML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  12 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+pulsechain               12 mins             ████████████████████████░   96.43 % 
+Gunkirat15               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      12 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -115,7 +115,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Gunkirat15/Gunkirat15/main/assets/bar_graph.png)
 
 
- Last Updated on 26/05/2025 02:02:52 UTC
+ Last Updated on 26/05/2025 18:49:02 UTC
 <!--END_SECTION:waka-->
 
 ---
