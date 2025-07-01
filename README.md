@@ -82,17 +82,16 @@ Sunday                   63 commits          █████░░░░░░�
 🕑︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-JavaScript               23 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  23 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-client                   17 mins             ██████████████████░░░░░░░   73.49 % 
-server                   6 mins              ███████░░░░░░░░░░░░░░░░░░   26.51 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      23 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -112,7 +111,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Gunkirat15/Gunkirat15/main/assets/bar_graph.png)
 
 
- Last Updated on 30/06/2025 18:52:39 UTC
+ Last Updated on 01/07/2025 18:51:35 UTC
 <!--END_SECTION:waka-->
 
 ---
