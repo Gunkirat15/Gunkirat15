@@ -1,11 +1,12 @@
-<h2>ਸਤ ਸ੍ਰੀ ਅਕਾਲ (Sat Sri Akaal) 🙏🏻, I'm Gunkirat Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2>Hello there! 👋 I'm Gunkirat Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<p><em>Software Developer Intern @ <a href="https://www.zurichcanada.com/">Zurich Canada</a> | CS @ University of Alberta | TA for CMPUT 229</em></p>
+<p><em>Software Developer Intern @ <a href="https://www.zurichcanada.com/">Zurich Canada</a> | CS @ University of Alberta | Teaching Assistant for Computer Organisation and Architecture</em></p>
 
 [![LinkedIn](https://img.shields.io/badge/-Gunkirat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gunkirat-singh/)](https://www.linkedin.com/in/gunkirat-singh/)
 [![GitHub](https://img.shields.io/github/followers/gunkirat15?label=Follow&style=social)](https://github.com/gunkirat15)
 [![Website](https://img.shields.io/badge/Portfolio-gunkiratsingh.com-46a2f1?style=flat-square&logo=Google-Chrome&logoColor=white)](https://gunkiratsingh.com)
+
 
 ---
 
