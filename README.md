@@ -34,8 +34,8 @@ const gunkirat = {
 ### 🚀 Featured Projects
 
 - 💡 [PulseChain](https://github.com/PulseChain-org) — A health-focused cross-platform app (React + React Native + Node.js + PostgreSQL)
-- 🔒 CMPUT 229 RISC-V Labs — Architecture, caches, branch prediction, and more
-- 🃏 Blackjack in Python — Object-oriented game with cool CLI logic
+- ✨[Whimsy](https://github.com/cmput301-w25/project-bugoff) — An Android app for mood tracking and journaling, featuring a vibrant UI, daily mood logs, data visualization charts, and personalized insights to help users reflect on emotional patterns
+- 🚗 [Garage Project](https://github.com/garage-website) — A full-stack web app for booking car services, with a modern dark UI, 3D car models, animations, protected routes, and user dashboards
 
 ---
 
