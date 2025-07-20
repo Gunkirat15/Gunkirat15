@@ -50,6 +50,8 @@ const gunkirat = {
 
 > 📦 224.3 kB Used in GitHub's Storage 
  > 
+> 🏆 68 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 6 Public Repositories 
@@ -114,7 +116,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Gunkirat15/Gunkirat15/main/assets/bar_graph.png)
 
 
- Last Updated on 19/07/2025 18:52:03 UTC
+ Last Updated on 20/07/2025 18:52:03 UTC
 <!--END_SECTION:waka-->
 
 ---
