@@ -48,7 +48,7 @@ const gunkirat = {
 
 **🐱 My GitHub Data** 
 
-> 📦 228.1 kB Used in GitHub's Storage 
+> 📦 228.3 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -83,24 +83,23 @@ Sunday                   63 commits          █████░░░░░░�
 🕑︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-JavaScript               22 mins             ████████████████████████░   95.64 % 
-CSS                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  23 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-seas-portfolio           23 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      23 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
-**I Mostly Code in Python** 
+**I Mostly Code in JavaScript** 
 
 ```text
-Python                   6 repos             ███████░░░░░░░░░░░░░░░░░░   26.09 % 
-JavaScript               6 repos             ███████░░░░░░░░░░░░░░░░░░   26.09 % 
+JavaScript               7 repos             ████████░░░░░░░░░░░░░░░░░   30.43 % 
+Python                   5 repos             █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
 Assembly                 4 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
 HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
 Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
@@ -113,7 +112,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Gunkirat15/Gunkirat15/main/assets/bar_graph.png)
 
 
- Last Updated on 17/08/2025 18:50:56 UTC
+ Last Updated on 18/08/2025 18:54:50 UTC
 <!--END_SECTION:waka-->
 
 ---
