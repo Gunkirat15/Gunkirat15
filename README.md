@@ -48,7 +48,7 @@ const gunkirat = {
 
 **🐱 My GitHub Data** 
 
-> 📦 228.3 kB Used in GitHub's Storage 
+> 📦 228.4 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -112,7 +112,7 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Gunkirat15/Gunkirat15/main/assets/bar_graph.png)
 
 
- Last Updated on 18/08/2025 18:54:50 UTC
+ Last Updated on 19/08/2025 18:50:45 UTC
 <!--END_SECTION:waka-->
 
 ---
